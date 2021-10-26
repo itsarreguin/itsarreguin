@@ -21,8 +21,6 @@ if __name__ == '__main__':
     run()
 ```
 
- <br>
- 
 #### GitHub Stats
  
 ![readme](https://github-readme-stats.vercel.app/api?username=itsarreguin)
