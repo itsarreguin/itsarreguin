@@ -12,13 +12,18 @@ I'm Brandon Arreguin, UI Designer and Data Science student from Salamanca, <img 
  
 ```python
 
-def run():
-    number = int(input('Multiplication table: '))
-    for i in range(1, 11):
-        print(i * number)
-        
+def itsarreguin():
+    info = {
+        'me': ['Brandon Arreguin'],
+        'langs': ['Python', 'Sass', 'CSS', 'HTML', 'Pug'],
+        'tools': ['Figma', 'VSCode', 'Vercel', 'InVision'],
+    }
+
+    print(info)
+
 if __name__ == '__main__':
-    run()
+    itsarreguin()
+    
 ```
 
 #### GitHub Stats
