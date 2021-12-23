@@ -22,8 +22,7 @@ def itsarreguin():
     print(info)
 
 if __name__ == '__main__':
-    itsarreguin()
-    
+    itsarreguin() 
 ```
 
 #### GitHub Stats
