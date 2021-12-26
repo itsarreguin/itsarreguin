@@ -18,8 +18,7 @@ def itsarreguin():
         'langs': ['Python', 'Sass', 'CSS', 'HTML', 'Pug'],
         'tools': ['Figma', 'VSCode', 'Vercel', 'InVision'],
     }
-
-    print(info)
+    
 
 if __name__ == '__main__':
     itsarreguin() 
