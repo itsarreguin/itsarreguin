@@ -9,20 +9,6 @@ I'm Brandon Arreguin, UI Designer and Data Science student from Salamanca, <img 
 ![readme](https://user-images.githubusercontent.com/60556812/138779248-ba6ac775-074b-4c0e-afaf-936904e11232.png)
 
  <br>
- 
-```python
-
-def itsarreguin():
-    info = {
-        'me': ['Brandon Arreguin'],
-        'langs': ['Python', 'Sass', 'CSS', 'HTML', 'Pug'],
-        'tools': ['Figma', 'VSCode', 'Vercel', 'InVision'],
-    }
-    
-
-if __name__ == '__main__':
-    itsarreguin() 
-```
 
 #### GitHub Stats
  
