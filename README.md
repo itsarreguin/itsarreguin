@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm Brandon Arreguin, UI Designer and Data Science student from Salamanca, <img src="https://user-images.githubusercontent.com/60556812/138789915-e5567cba-caf3-41fd-b864-9d93a081959c.png" width="20px" alt="flag"> Mexico.
+I'm Brandon Arreguin, UI Designer and Back-End in process from Salamanca, <img src="https://user-images.githubusercontent.com/60556812/138789915-e5567cba-caf3-41fd-b864-9d93a081959c.png" width="20px" alt="flag"> Mexico.
 
  <br>
 
